@@ -1,4 +1,4 @@
-# Monte-Carlo-Simulation
+# Python Roulette CLI!
 A simple CLI casino "game", acting as a kind of Monte Carlo Simulation. Written in python.
 
 ## roulette.py
